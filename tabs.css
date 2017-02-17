@@ -1,0 +1,13 @@
+div.nav{
+  background-color: lightgray;
+  border-style: solid;
+}
+
+a.navigation{
+  text-decoration: none;
+  color: darkred;
+}
+
+div.nav:hover{
+  background-color: gray
+}
